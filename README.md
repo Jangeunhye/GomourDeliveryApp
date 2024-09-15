@@ -2,7 +2,7 @@
 
 단국대학교의 가파른 경사 때문에 교내와 상가를 왕복하는 것을 힘들어하는 학생이 있으며, 최소 주문 금액이 없고 배달료가 저렴한 배달 앱을 필요로 한다는 것을 알게되었다. 공강시간을 활용하여 학생이 배달원이 되고, 소비자가 될 수 있는 새로운 배달 플랫폼을 개발하고자 한다.
 
-[소비자용 앱 Github 바로가기](https://github.com/Jangeunhye/GomourDeliveryApp)
+[소비자용 앱 Github 바로가기](https://github.com/Jangeunhye/GomourCustomerApp)
 
 
 ## 개발 환경 
